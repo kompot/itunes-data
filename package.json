@@ -28,7 +28,7 @@
     "fast-csv": "^0.5.7",
     "ldjson-stream": "1.2.1",
     "multimeter": "^0.1.1",
-    "node-expat": "^2.3.7",
+    "node-expat": "git+https://github.com/kompot/node-expat.git#master",
     "optimist": "^0.6.1",
     "progress-stream": "^1.0.1"
   }
